@@ -9,7 +9,7 @@ basic:
         - 1024
         - 1200
     pages:
-        - /
+        - ''
     monitoring:
         days: {  }
         type: ''
